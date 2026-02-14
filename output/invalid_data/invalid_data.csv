@@ -1,0 +1,46 @@
+employee_id,name,department,salary,joining_date,email
+E82,Employee_1,IT,-31639,2/4/2020,Employee1@Company.com
+E36,Employee_5,Human Resources,-44110,7/9/2019,Employee5@Company.com
+E46,Employee_6,HR,-52541,2/3/2023,Employee6@Company.com
+E49,Employee_7,IT,-66178,13-12-2022,Employee7@Company.com
+E59,Employee_9,Finance,,28-12-2020,Employee9@Company.com
+E90,Employee_10,sales,,2/2/2023,Employee10@Company.com
+E60,Employee_11,Finance,,25-04-2019,Employee11@Company.com
+E41,Employee_12,Finance,,3/11/2020,Employee12@Company.com
+E47,Employee_21,IT,-84504,29-04-2019,Employee21@Company.com
+E40,Employee_24,Sales,-74019,11/25/2021,Employee24@Company.com
+E12,Employee_32,finance,,9/21/2021,Employee32@Company.com
+E77,Employee_37,finance,,9/3/2019,Employee37@Company.com
+E34,Employee_39,IT,-73891,6/27/2020,Employee39@Company.com
+E86,Employee_40,Human Resources,-49660,1/20/2019,Employee40@Company.com
+E10,Employee_41,hr,-43969,15-12-2020,Employee41@Company.com
+E48,Employee_42,sales,-40338,1/17/2019,Employee42@Company.com
+E85,Employee_43,Human Resources,-87548,8/8/2019,Employee43@Company.com
+E35,Employee_44,IT,-69638,11/8/2022,Employee44@Company.com
+E6,Employee_46,Information Technology,,11/27/2019,Employee46@Company.com
+E70,Employee_48,finance,,19-09-2019,Employee48@Company.com
+E53,Employee_51,finance,-41754,10/3/2022,Employee51@Company.com
+E26,Employee_53,IT,-60166,1/4/2020,Employee53@Company.com
+E5,Employee_56,Finance,-69096,6/12/2021,Employee56@Company.com
+E50,Employee_57,HR,-67787,12/22/2022,Employee57@Company.com
+E67,Employee_58,Finance,,2/6/2021,Employee58@Company.com
+E42,Employee_60,IT,,5/11/2021,Employee60@Company.com
+E87,Employee_61,finance,-89166,27-01-2022,Employee61@Company.com
+E37,Employee_62,Sales,-58173,6/23/2021,Employee62@Company.com
+E66,Employee_63,Human Resources,,8/4/2020,Employee63@Company.com
+E12,Employee_64,IT,-79226,12/2/2020,Employee64@Company.com
+E90,Employee_66,hr,,9/5/2022,Employee66@Company.com
+E14,Employee_67,sales,,9/8/2021,Employee67@Company.com
+E58,Employee_70,sales,-79268,9/19/2021,Employee70@Company.com
+E36,Employee_71,IT,-35077,7/10/2020,Employee71@Company.com
+E70,Employee_72,finance,,22-11-2022,Employee72@Company.com
+E42,Employee_79,finance,-59799,7/23/2020,Employee79@Company.com
+E84,Employee_81,IT,,2/11/2019,Employee81@Company.com
+E76,Employee_85,Human Resources,,11/28/2022,Employee85@Company.com
+E20,Employee_88,sales,-41543,9/17/2021,Employee88@Company.com
+E76,Employee_89,Human Resources,,7/25/2020,Employee89@Company.com
+E24,Employee_91,Finance,-43901,7/26/2020,Employee91@Company.com
+E38,Employee_94,Information Technology,,9/21/2022,Employee94@Company.com
+E25,Employee_97,sales,-78405,5/7/2022,Employee97@Company.com
+E25,Employee_98,Information Technology,,1/29/2019,Employee98@Company.com
+E36,Employee_99,hr,-33573,7/30/2022,Employee99@Company.com

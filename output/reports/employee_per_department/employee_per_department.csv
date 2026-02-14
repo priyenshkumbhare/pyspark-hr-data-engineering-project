@@ -1,0 +1,63 @@
+employee_id,name,department,salary,joining_date,email,salary_flag
+E1,Employee_26,Information Technology,34652.0,2019-05-19,employee26@company.com,Original_Valid
+E10,Employee_27,Information Technology,48250.0,2022-09-01,employee27@company.com,Original_Valid
+E11,Employee_22,Sales,77966.0,2019-09-15,employee22@company.com,Original_Valid
+E12,Employee_32,Finance,67957.0,2021-09-21,employee32@company.com,Imputed_Department_Median
+E14,Employee_30,Human Resources,42465.0,2021-05-14,employee30@company.com,Original_Valid
+E15,Employee_18,Human Resources,40365.0,2023-01-18,employee18@company.com,Original_Valid
+E16,Employee_68,Sales,82521.0,2022-02-18,employee68@company.com,Original_Valid
+E2,Employee_87,Human Resources,83892.0,2021-06-06,employee87@company.com,Original_Valid
+E20,Employee_20,Finance,54504.0,2021-09-27,employee20@company.com,Original_Valid
+E22,Employee_77,Finance,85083.0,2022-04-27,employee77@company.com,Original_Valid
+E24,Employee_91,Finance,67957.0,2020-07-26,employee91@company.com,Invalid_Negative
+E25,Employee_97,Sales,77138.0,2022-05-07,employee97@company.com,Invalid_Negative
+E26,Employee_53,Information Technology,44935.0,2020-01-04,employee53@company.com,Invalid_Negative
+E28,Employee_3,Sales,45247.0,2020-02-12,employee3@company.com,Original_Valid
+E29,Employee_4,Human Resources,59439.0,2022-11-30,employee4@company.com,Original_Valid
+E31,Employee_82,Information Technology,38272.0,2021-08-10,employee82@company.com,Original_Valid
+E32,Employee_25,Sales,44725.0,2020-04-16,employee25@company.com,Original_Valid
+E34,Employee_39,Information Technology,44935.0,2020-06-27,employee39@company.com,Invalid_Negative
+E35,Employee_44,Information Technology,44935.0,2022-11-08,employee44@company.com,Invalid_Negative
+E36,Employee_5,Human Resources,59439.0,2019-07-09,employee5@company.com,Invalid_Negative
+E37,Employee_34,Human Resources,77874.0,2020-01-24,employee34@company.com,Original_Valid
+E38,Employee_94,Information Technology,44935.0,2022-09-21,employee94@company.com,Imputed_Department_Median
+E39,Employee_75,Sales,85931.0,2022-01-23,employee75@company.com,Original_Valid
+E40,Employee_24,Sales,77138.0,2021-11-25,employee24@company.com,Invalid_Negative
+E41,Employee_12,Finance,67957.0,2020-03-11,employee12@company.com,Imputed_Department_Median
+E42,Employee_60,Information Technology,44935.0,2021-05-11,employee60@company.com,Imputed_Department_Median
+E46,Employee_6,Human Resources,59439.0,2023-02-03,employee6@company.com,Invalid_Negative
+E47,Employee_21,Information Technology,44935.0,2019-04-29,employee21@company.com,Invalid_Negative
+E48,Employee_42,Sales,77138.0,2019-01-17,employee42@company.com,Invalid_Negative
+E49,Employee_7,Information Technology,44935.0,2022-12-13,employee7@company.com,Invalid_Negative
+E5,Employee_56,Finance,67957.0,2021-06-12,employee56@company.com,Invalid_Negative
+E50,Employee_57,Human Resources,59439.0,2022-12-22,employee57@company.com,Invalid_Negative
+E51,Employee_13,Human Resources,72129.0,2020-06-26,employee13@company.com,Original_Valid
+E52,Employee_33,Human Resources,40789.0,2021-03-10,employee33@company.com,Original_Valid
+E53,Employee_51,Finance,67957.0,2022-10-03,employee51@company.com,Invalid_Negative
+E57,Employee_69,Sales,77138.0,2021-02-07,employee69@company.com,Original_Valid
+E58,Employee_70,Sales,77138.0,2021-09-19,employee70@company.com,Invalid_Negative
+E59,Employee_9,Finance,67957.0,2020-12-28,employee9@company.com,Imputed_Department_Median
+E6,Employee_46,Information Technology,44935.0,2019-11-27,employee46@company.com,Imputed_Department_Median
+E60,Employee_11,Finance,67957.0,2019-04-25,employee11@company.com,Imputed_Department_Median
+E61,Employee_95,Sales,52528.0,2020-11-08,employee95@company.com,Original_Valid
+E63,Employee_76,Human Resources,58562.0,2021-03-07,employee76@company.com,Original_Valid
+E65,Employee_19,Information Technology,79935.0,2022-08-01,employee19@company.com,Original_Valid
+E66,Employee_15,Human Resources,62343.0,2019-11-10,employee15@company.com,Original_Valid
+E67,Employee_58,Finance,67957.0,2021-02-06,employee58@company.com,Imputed_Department_Median
+E70,Employee_48,Finance,67957.0,2019-09-19,employee48@company.com,Imputed_Department_Median
+E71,Employee_17,Sales,86412.0,2020-06-30,employee17@company.com,Original_Valid
+E72,Employee_14,Finance,78956.0,2021-11-01,employee14@company.com,Original_Valid
+E73,Employee_86,Finance,52754.0,2019-05-22,employee86@company.com,Original_Valid
+E75,Employee_38,Finance,68962.0,2022-09-08,employee38@company.com,Original_Valid
+E76,Employee_85,Human Resources,59439.0,2022-11-28,employee85@company.com,Imputed_Department_Median
+E77,Employee_37,Finance,67957.0,2019-09-03,employee37@company.com,Imputed_Department_Median
+E8,Employee_35,Finance,67957.0,2019-04-28,employee35@company.com,Original_Valid
+E80,Employee_59,Information Technology,50572.0,2021-11-04,employee59@company.com,Original_Valid
+E82,Employee_1,Information Technology,44935.0,2020-02-04,employee1@company.com,Invalid_Negative
+E84,Employee_81,Information Technology,44935.0,2019-02-11,employee81@company.com,Imputed_Department_Median
+E85,Employee_8,Information Technology,44935.0,2019-07-26,employee8@company.com,Original_Valid
+E86,Employee_40,Human Resources,59439.0,2019-01-20,employee40@company.com,Invalid_Negative
+E87,Employee_2,Finance,78540.0,2019-07-03,employee2@company.com,Original_Valid
+E88,Employee_16,Finance,34163.0,2022-05-05,employee16@company.com,Original_Valid
+E9,Employee_73,Finance,51684.0,2019-08-05,employee73@company.com,Original_Valid
+E90,Employee_10,Sales,77138.0,2023-02-02,employee10@company.com,Imputed_Department_Median
