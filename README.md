@@ -62,21 +62,21 @@ Total payroll cost: 3,771,350
 
 ### Employee Distribution
 
-  Department   Employee Count
-  ------------ ----------------
-  Finance      19
-  IT           16
-  HR           14
-  Sales        13
+| Department | Employee Count |
+|------------|----------------|
+| Finance    | 19             |
+| IT         | 16             |
+| HR         | 14             |
+| Sales      | 13             |
 
 ### Average Salary by Department
 
-  Department   Avg Salary
-  ------------ ------------
-  Sales        72,166
-  Finance      65,903
-  HR           59,646
-  IT           46,622
+| Department | Avg Salary |
+|------------|------------|
+| Sales      | 72,166     |
+| Finance    | 65,903     |
+| HR         | 59,646     |
+| IT         | 46,622     |
 
 ### Hiring Trend Analysis
 
